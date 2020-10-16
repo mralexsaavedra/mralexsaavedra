@@ -1,12 +1,12 @@
 ## Hi, I'm Alexander 👋🏽
 
-I'm a Software Engineer, working as a Frontend Developer. 
+I'm a **Software Engineer**, working as a **Frontend Developer**. 
 
-👨🏽‍💻 Working with JavaScript.
+👨🏽‍💻 Working with **JavaScript**.
 
-🌱 I'm currently learning Testing.
+🌱 I'm currently learning **Testing**.
 
-👨🏽‍🎓 One of my biggest motivations is to learn.
+👨🏽‍🎓 One of my **biggest motivations** is to **learn**.
 
 😍 I love attending developer meetings, conferences, holding workshops, and sharing knowledge.
 
