@@ -1,6 +1,6 @@
 # Hi, I'm Alexander 👋🏽
 
-I'm a Senior Software Engineer, working as a Frontend/Fullstack Developer. 
+I'm a Software Engineer, working as a Frontend Developer. 
 
 ## More 🤓:
 - 👨🏽‍💻 Working with JavaScript, React/Vue.js/Angular, Node.js, GraphQL, MongoDB and Firebase.
