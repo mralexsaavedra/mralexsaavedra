@@ -1,4 +1,4 @@
-### Hi there, I'm Alexander 👋🏽
+## Hi there, I'm Alexander 👋🏽
 
 I'm a **Software Engineer**, working as a **Frontend Developer**. 
 
@@ -12,7 +12,7 @@ I'm a **Software Engineer**, working as a **Frontend Developer**.
 
 ⚡ My pronouns are he / him.
 
-## Find me around the web 🌍:
+### Find me around the web 🌍:
 
 <p align="left">
     <a href="https://github.com/mralexsaavedra">
