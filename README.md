@@ -1,4 +1,4 @@
-## Hi, I'm Alexander 👋🏽
+### Hi there, I'm Alexander 👋🏽
 
 I'm a **Software Engineer**, working as a **Frontend Developer**. 
 
@@ -12,9 +12,16 @@ I'm a **Software Engineer**, working as a **Frontend Developer**.
 
 ⚡ My pronouns are he / him.
 
-📫 Reach me on [Twitter](https://twitter.com/mralexsaavedra).
+## Find me around the web 🌍:
 
-👉🏽 And know a little more about me in [LinkedIn](https://www.linkedin.com/in/mralexsaavedra).
-
-[![Twitter: mralexsaavedra](https://img.shields.io/twitter/follow/mralexsaavedra?style=social)](https://twitter.com/mralexsaavedra)
-[![GitHub mralexsaavedra](https://img.shields.io/github/followers/mralexsaavedra?label=follow&style=social)](https://github.com/mralexsaavedra)
+<p align="left">
+    <a href="https://github.com/mralexsaavedra">
+        <img src="https://img.shields.io/github/followers/mralexsaavedra.svg?label=GitHub&style=social" alt="GitHub Alexander">
+    </a>
+    <a href="https://twitter.com/mralexsaavedra">
+        <img src="https://img.shields.io/twitter/follow/mralexsaavedra?label=Twitter&style=social" alt="Twitter Alexander">
+    </a>
+    <a href="https://www.linkedin.com/in/mralexsaavedra">
+        <img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn">
+    </a>
+</p>
