@@ -4,7 +4,7 @@ I'm a **Software Engineer**, working as a **Frontend Developer**.
 
 👨🏽‍💻 Working with **JavaScript**.
 
-🌱 I'm currently learning **Testing**.
+🌱 I'm currently learning **SSR**.
 
 👨🏽‍🎓 One of my **biggest motivations** is to **learn**.
 
