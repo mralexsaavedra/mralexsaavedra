@@ -4,7 +4,7 @@
 
 I'm a **Software Engineer**, working as a **Frontend Developer** making *cross-platform applications* with **React Native** in a *startup*. 
 
-👨🏽‍💻 Working with **JavaScript, React, Node, GraphQL, and MongoDB**.
+👨🏽‍💻 Working with **JavaScript, React, Node, GraphQL and MongoDB**.
 
 🌱 I'm currently learning **SSR**.
 
