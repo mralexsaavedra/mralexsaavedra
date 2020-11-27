@@ -1,18 +1,18 @@
 ## Hi there, I'm Alexander 👋🏽
 
-<img width=256 align="right" src="https://github.com/mralexsaavedra/mralexsaavedra/blob/master/memoji.jpeg" />
+<img width=256 align="right" src="https://raw.githubusercontent.com/mralexsaavedra/mralexsaavedra/master/img/memoji.jpeg" />
 
-I'm a **Software Engineer**, working as a **Frontend Developer**. 
+I'm a **Software Engineer**, working as a **Frontend Developer** developing *cross-platform applications* with **React Native** in a *startup*. 
 
-👨🏽‍💻 Working with **JavaScript**.
+👨🏽‍💻 Working with **JavaScript, React, Node, GraphQL, and MongoDB**.
 
 🌱 I'm currently learning **SSR**.
 
 👨🏽‍🎓 One of my **biggest motivations** is to **learn**.
 
-😍 I love attending developer meetings, conferences, holding workshops, and sharing knowledge.
+😍 I love attending *developer meetings, conferences, holding workshops,* and *sharing knowledge*.
 
-⚡ My pronouns are he / him.
+⚡ My pronouns are **he / him**.
 
 ### Find me around the web 🌍:
 
