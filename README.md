@@ -1,5 +1,7 @@
 ## Hi there, I'm Alexander 👋🏽
 
+<img width=256 align="right" src="https://github.com/mralexsaavedra/mralexsaavedra/blob/master/memoji.jpeg" />
+
 I'm a **Software Engineer**, working as a **Frontend Developer**. 
 
 👨🏽‍💻 Working with **JavaScript**.
