@@ -1,7 +1,5 @@
 ## Hi there, I'm Alexander 👋🏽
 
-<img align="center" src="https://raw.githubusercontent.com/mralexsaavedra/mralexsaavedra/master/img/banner.png" />
-
 I'm a **Software Engineer**, working as a **Frontend Developer** making *cross-platform applications* with **React Native** in a *startup*. 
 
 👨🏽‍💻 Working with **JavaScript, React, Node, GraphQL and MongoDB**.
