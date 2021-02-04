@@ -1,6 +1,6 @@
 ## Hi there, I'm Alexander 👋🏽
 
-<img width=256 align="right" src="https://raw.githubusercontent.com/mralexsaavedra/mralexsaavedra/master/img/memoji.jpeg" />
+<img align="center" src="https://raw.githubusercontent.com/mralexsaavedra/mralexsaavedra/master/img/banner.png" />
 
 I'm a **Software Engineer**, working as a **Frontend Developer** making *cross-platform applications* with **React Native** in a *startup*. 
 
