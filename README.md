@@ -4,7 +4,7 @@ I'm a **Software Engineer**, working as a **Frontend Developer** making *cross-p
 
 👨🏽‍💻 Working with **JavaScript, React, Node, GraphQL and MongoDB**.
 
-🌱 I'm currently learning **SSR**.
+🌱 I'm currently learning **Figma**.
 
 👨🏽‍🎓 One of my **biggest motivations** is to **learn**.
 
